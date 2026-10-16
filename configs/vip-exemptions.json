@@ -1,0 +1,17 @@
+{
+  "description": "Critical packages that MUST NEVER be frozen, brevented, or restricted to avoid missing calls, alarms, or banking OTPs.",
+  "vip_packages": [
+    "com.whatsapp",
+    "org.telegram.messenger",
+    "org.thunderdog.challegram",
+    "com.google.android.dialer",
+    "com.android.phone",
+    "com.android.server.telecom",
+    "com.google.android.apps.messaging",
+    "com.android.mms",
+    "com.google.android.deskclock",
+    "com.android.deskclock",
+    "com.google.android.inputmethod.latin",
+    "com.android.systemui"
+  ]
+}

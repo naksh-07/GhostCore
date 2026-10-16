@@ -1,0 +1,17 @@
+# Binaries & Large dumps
+*.apk
+*.zip
+*.frida
+rdr_dump/
+.rea_work/
+tomb_raider_re/
+preferences_dump.xml
+shizuku_starter_arm64
+
+# Python
+__pycache__/
+*.pyc
+
+# Local OS
+.DS_Store
+Thumbs.db

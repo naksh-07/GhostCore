@@ -1,0 +1,21 @@
+{
+  "description": "Heavy bloat, shopping apps, downloaders, and games placed in Hail Deep Freeze (disabled-user). 0% RAM, 0% CPU, 0% battery when not actively in use. Unfreezes in 1-tap when tapped.",
+  "freeze_packages": [
+    "in.amazon.mShop.android.shopping",
+    "com.meesho.supply",
+    "com.flipkart.android",
+    "com.utorrent.client",
+    "mega.privacy.android.app",
+    "com.whereismytrain.android",
+    "jp.co.shueisha.mangaplus",
+    "com.goodreads",
+    "xyz.penpencil.khansirofficial",
+    "com.calm.android",
+    "com.rockstargames.rdr",
+    "com.feralinteractive.tombraider_android",
+    "com.applisto.appcloner",
+    "com.aefyr.sai",
+    "com.revanced.net.revancedmanager",
+    "com.instagram.android"
+  ]
+}
